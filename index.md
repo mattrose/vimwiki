@@ -1,6 +1,6 @@
 ## Matt's Personal Wiki
 
-[[README]]
+[README](README)
 [TODO](TODO)
 
 Terminator next issues:
